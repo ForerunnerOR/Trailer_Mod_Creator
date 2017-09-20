@@ -30,7 +30,6 @@ panel_transporter/chassis_wall.sii , panel transporter wall
 log_trailer/chassis.sii , log trailer 
 reefer/chassis.sii , reefer 
 reefer/chassis_a.sii , reefer a 
-reefer/chassis_b.sii , reefer b 
 schmitz/universal/chassis.sii , schmitz universal 
 schw_cistern_food/chassis.dlc_schwarzmuller.sii , schw cistern food !Schwarzmuller DLC! 
 schw_curtain/chassis.dlc_schwarzmuller.sii , schw curtain !Schwarzmuller DLC! 

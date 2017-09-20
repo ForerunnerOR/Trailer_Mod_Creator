@@ -1,1 +1,9 @@
 E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\bin\Debug\TrailerModCreator.exe.config
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\bin\Debug\TrailerModCreator.exe
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\bin\Debug\TrailerModCreator.pdb
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.csprojResolveAssemblyReference.cache
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.frmMain.resources
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.Properties.Resources.resources
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.csproj.GenerateResource.Cache
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.exe
+E:\visual studio 2015\GitHub\TrailerModCreator\TrailerModCreator\obj\Debug\TrailerModCreator.pdb
