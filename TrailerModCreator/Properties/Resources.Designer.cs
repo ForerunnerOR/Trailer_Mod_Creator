@@ -61,16 +61,42 @@ namespace TrailerModCreator.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to car_transporter/cargo_octavia.sii , car transporter cargo octavia 
-        ///car_transporter/cargo_octavia_2.sii , car transporter cargo octavia 2 
-        ///car_transporter/cargo_octavia_3.sii , car transporter cargo octavia 3 
-        ///cement_mixer/mixer.sii , cement mixer mixer 
-        ///overweight/twocats.sii , overweight twocats 
-        ///overweight/catg.sii , overweight catg 
-        ///overweight/cat422.sii , overweight cat422 
-        ///overweight/excavator.sii , overweight excavator 
-        ///flat_bed/empty_tank.sii , flat bed empty tank 
-        ///flat_bed/hi_pressure_tank. [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to trailer : trailer.&lt;intname&gt; 
+        ///{
+        ///	accessories[]: .&lt;intname&gt;.tchassis
+        ///	#addwheel
+        ///	#addcargo
+        ///	#addpaint
+        ///}
+        ///
+        ///vehicle_accessory: .&lt;intname&gt;.tchassis
+        ///{
+        ///    	data_path: &quot;/def/vehicle/trailer/&lt;trailer&gt;.sii&quot;
+        ///}
+        ///
+        ///#addwheeldef 
+        ///
+        ///#addpaintdef
+        ///#addcargodef
+        ///.
+        /// </summary>
+        internal static string blankSii {
+            get {
+                return ResourceManager.GetString("blankSii", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to car_transporter/cargo_octavia.sii,car transporter cargo octavia 
+        ///car_transporter/cargo_octavia_2.sii,car transporter cargo octavia 2 
+        ///car_transporter/cargo_octavia_3.sii,car transporter cargo octavia 3 
+        ///cement_mixer/mixer.sii,cement mixer mixer 
+        ///overweight/twocats.sii,overweight twocats 
+        ///overweight/catg.sii,overweight catg 
+        ///overweight/cat422.sii,overweight cat422 
+        ///overweight/excavator.sii,overweight excavator 
+        ///flat_bed/empty_tank.sii,flat bed empty tank 
+        ///flat_bed/hi_pressure_tank.sii,flat bed hi pr [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string defCargo {
             get {
@@ -79,18 +105,17 @@ namespace TrailerModCreator.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to aero_dynamic/chassis.sii , aero dynamic 
-        ///brick_trailer/chassis_explo.sii , brick trailer explo 
-        ///brick_trailer/chassis.sii , brick trailer 
-        ///car_transporter/chassis.sii , car transporter 
-        ///car_transporter/chassis_blue.sii , car transporter blue 
-        ///car_transporter/chassis_black.sii , car transporter black 
-        ///cement/chassis.sii , cement 
-        ///cement_mixer/chassis.sii , cement mixer 
-        ///chemical_cistern/chassis.sii , chemical cistern 
-        ///container/chassis.sii , container 
-        ///overweight/chassis.sii , overweight 
-        ///overweig [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to aero_dynamic/chassis.sii,aero dynamic,3,1 
+        ///brick_trailer/chassis_explo.sii,brick trailer explo,3,0
+        ///brick_trailer/chassis.sii,brick trailer,3,0
+        ///car_transporter/chassis.sii,car transporter,3,0
+        ///car_transporter/chassis_blue.sii,car transporter blue,3,0
+        ///car_transporter/chassis_black.sii,car transporter black,3,0
+        ///cement/chassis.sii,cement,3,1
+        ///cement_mixer/chassis.sii,cement mixer,3,0
+        ///chemical_cistern/chassis.sii,chemical cistern,3,1
+        ///container/chassis.sii,container,3,1
+        ///overweight/chassis.sii,overweight,3 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string defChassis {
             get {
@@ -99,22 +124,23 @@ namespace TrailerModCreator.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to aero_dynamic , aero_dynamic 
-        ///brick_explo , brick.explo.trailer
-        ///brick_trailer , brk_trailer 
-        ///car_transporter , car_trans 
-        ///car_transporter_2 , car_trans2 
-        ///car_transporter_3 , car_trans3 
-        ///cement , cement 
-        ///cement_mixer , cement_mix 
-        ///chemical_cistern , chcistern 
-        ///container , container 
-        ///digger , overweight.digger 
-        ///digger1000 , overweight.digger1000 
-        ///digger500 , overweight.digger500 
-        ///excavator , overweight.excavator 
-        ///flat_bed_empty_tank , flat_bed.empty_tank 
-        ///flat_bed_hi_press_tank , flat_bed.hipres [rest of string was truncated]&quot;;.
+        ///   Looks up a localized string similar to aero_dynamic,aero_dynamic 
+        ///brick_explo,brick.explo.trailer
+        ///brick_trailer,brk_trailer 
+        ///car_transporter,car_trans 
+        ///car_transporter_2,car_trans2 
+        ///car_transporter_3,car_trans3 
+        ///cement,cement 
+        ///cement_mixer,cement_mix 
+        ///chemical_cistern,chcistern 
+        ///container,container 
+        ///digger,overweight.digger 
+        ///digger1000,overweight.digger1000 
+        ///digger500,overweight.digger500 
+        ///excavator,overweight.excavator 
+        ///flat_bed_empty_tank,flat_bed.empty_tank 
+        ///flat_bed_hi_press_tank,flat_bed.hipress_tank 
+        ///flat_bed_over_cargo,fla [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string defTrailers {
             get {

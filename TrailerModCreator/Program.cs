@@ -34,6 +34,9 @@ namespace TrailerModCreator
         public string filePath { get; set; }
         public string displayName { get; set; }
 
+        public int axleCount { get; set; }
+        public bool isPainted { get; set; }
+
         public override string ToString()
         {
             return displayName;

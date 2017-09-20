@@ -1,0 +1,17 @@
+﻿trailer : trailer.<intname> 
+{
+	accessories[]: .<intname>.tchassis
+	#addwheelacc
+	#addcargoacc
+	#addpaintacc
+}
+
+vehicle_accessory: .<intname>.tchassis
+{
+    	data_path: "/def/vehicle/trailer/<trailer>"
+}
+
+#addwheeldef 
+
+#addpaintdef
+#addcargodef
