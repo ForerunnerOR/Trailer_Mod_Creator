@@ -11,6 +11,7 @@ namespace TrailerModCreator
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// 
         [STAThread]
         static void Main()
         {
@@ -19,4 +20,19 @@ namespace TrailerModCreator
             Application.Run(new frmMain());
         }
     }
+
+    //Classes definition
+
+    public class defTrailer
+    {
+        public string filePath { get; set; }
+        public string unitName { get; set; }
+    }
+
+    public class defChassisCargo
+    {
+        public string filePath { get; set; }
+        public string displayName { get; set; }
+    }
+    
 }

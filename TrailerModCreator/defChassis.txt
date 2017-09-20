@@ -1,0 +1,42 @@
+aero_dynamic/chassis.sii , aero dynamic 
+brick_trailer/chassis_explo.sii , brick trailer explo 
+brick_trailer/chassis.sii , brick trailer 
+car_transporter/chassis.sii , car transporter 
+car_transporter/chassis_blue.sii , car transporter blue 
+car_transporter/chassis_black.sii , car transporter black 
+cement/chassis.sii , cement 
+cement_mixer/chassis.sii , cement mixer 
+chemical_cistern/chassis.sii , chemical cistern 
+container/chassis.sii , container 
+overweight/chassis.sii , overweight 
+overweight/chassis_b.sii , overweight b 
+overweight/chassis_y.sii , overweight y 
+overweight/chassis.sii , overweight 
+flat_bed/chassis.sii , flat bed 
+food_cistern/chassis.sii , food cistern 
+krone/fridge/chassis.sii , krone fridge 
+fuel_cistern/chassis.sii , fuel cistern 
+glass_trailer/chassis.sii , glass trailer 
+gooseneck/chassis.sii , gooseneck 
+krone/coolliner/chassis.sii , krone coolliner 
+krone/profiliner/chassis.sii , krone profiliner 
+livestock/chassis.sii , livestock 
+log_trailer/chassis.sii , log trailer 
+opentop/chassis.sii , opentop 
+schw_overweight/chassis.dlc_schwarzmuller.sii , schw overweight !Schwarzmuller DLC! 
+panel_transporter/chassis_floor.sii , panel transporter floor 
+panel_transporter/chassis_glass.sii , panel transporter glass 
+panel_transporter/chassis_wall.sii , panel transporter wall 
+log_trailer/chassis.sii , log trailer 
+reefer/chassis.sii , reefer 
+reefer/chassis_a.sii , reefer a 
+reefer/chassis_b.sii , reefer b 
+schmitz/universal/chassis.sii , schmitz universal 
+schw_cistern_food/chassis.dlc_schwarzmuller.sii , schw cistern food !Schwarzmuller DLC! 
+schw_curtain/chassis.dlc_schwarzmuller.sii , schw curtain !Schwarzmuller DLC! 
+schw_overweight/chassis.dlc_schwarzmuller.sii , schw overweight !Schwarzmuller DLC! 
+schw_reefer/chassis.dlc_schwarzmuller.sii , schw reefer !Schwarzmuller DLC! 
+schw_slidepost/chassis.dlc_schwarzmuller.sii , schw slidepost !Schwarzmuller DLC! 
+s_ki_solid/chassis.sii , s ki solid 
+truck_transporter/chassis.sii , truck transporter 
+willig/fuel_cistern/chassis.sii , willig fuel cistern
