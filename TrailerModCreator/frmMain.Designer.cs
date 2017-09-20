@@ -35,6 +35,7 @@
             this.btnBuildMod = new System.Windows.Forms.Button();
             this.lblModName = new System.Windows.Forms.Label();
             this.txtModName = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // cmbTrailerChassis
@@ -97,11 +98,21 @@
             this.txtModName.Size = new System.Drawing.Size(194, 20);
             this.txtModName.TabIndex = 6;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(109, 166);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(378, 13);
+            this.label1.TabIndex = 7;
+            this.label1.Text = "Please follow all TruckersMP save editing rules when using mods from this tool.";
+            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(614, 167);
+            this.ClientSize = new System.Drawing.Size(614, 197);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.txtModName);
             this.Controls.Add(this.lblModName);
             this.Controls.Add(this.btnBuildMod);
@@ -109,8 +120,8 @@
             this.Controls.Add(this.cmbTrailerCargo);
             this.Controls.Add(this.lblTrailerChassis);
             this.Controls.Add(this.cmbTrailerChassis);
-            this.MaximumSize = new System.Drawing.Size(630, 206);
-            this.MinimumSize = new System.Drawing.Size(630, 206);
+            this.MaximumSize = new System.Drawing.Size(630, 236);
+            this.MinimumSize = new System.Drawing.Size(630, 236);
             this.Name = "frmMain";
             this.Text = "Trailer Mod Creator";
             this.ResumeLayout(false);
@@ -127,6 +138,7 @@
         private System.Windows.Forms.Button btnBuildMod;
         private System.Windows.Forms.Label lblModName;
         private System.Windows.Forms.TextBox txtModName;
+        private System.Windows.Forms.Label label1;
     }
 }
 
